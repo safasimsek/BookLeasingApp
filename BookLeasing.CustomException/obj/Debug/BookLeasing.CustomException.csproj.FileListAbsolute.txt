@@ -1,0 +1,12 @@
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\bin\Debug\BookLeasing.CustomException.dll
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\bin\Debug\BookLeasing.CustomException.pdb
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.csprojAssemblyReference.cache
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.dll
+C:\Users\user\Source\Workspaces\KitapKiralamaOtomasyonu\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.pdb
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\bin\Debug\BookLeasing.CustomException.dll
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\bin\Debug\BookLeasing.CustomException.pdb
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.dll
+C:\Users\user\Desktop\BookLeasingApp\BookLeasingApp\BookLeasing.CustomException\obj\Debug\BookLeasing.CustomException.pdb
